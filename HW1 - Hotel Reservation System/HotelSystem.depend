@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1467053909 source:c:\users\enes\desktop\odev\hotelsystem\hotel.cpp
+	<iostream>
+	<string>
+	"Hotel.h"
+
+1467053914 c:\users\enes\desktop\odev\hotelsystem\hotel.h
+
+1467053933 source:c:\users\enes\desktop\odev\hotelsystem\hotelreservationsystem.cpp
+	<iostream>
+	<string>
+	"HotelReservationSystem.h"
+
+1467041833 c:\users\enes\desktop\odev\hotelsystem\hotelreservationsystem.h
+	"Hotel.h"
+
+1467049517 source:c:\users\enes\desktop\odev\hotelsystem\main.cpp
+	<cstdio>
+	<iostream>
+	"Hotel.h"
+	"HotelReservationSystem.h"
+
